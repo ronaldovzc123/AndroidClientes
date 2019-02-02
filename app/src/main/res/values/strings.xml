@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Clientes</string>
+    <string name="app_sistema">SISTEMA ADMINISTRATIVO</string>
+    <string name="app_user">Usuario : </string>
+    <string name="app_user2">rgonzales</string>
+    <string name="app_fecha">Fecha : </string>
+    <string name="app_numero">01/01/2017</string>
+    <string name="app_Titulo">CONSULTA DE PERFILES Y RESULTADOS</string>
+    <string name="app_nombre">Nombre</string>
+    <string name="app_edad">Edad</string>
+    <string name="app_ubicacion">Ubicación</string>
+    <string name="app_nom1">Alberto Rosas Trujillo</string>
+    <string name="app_nom2">Israel Flores Soto</string>
+    <string name="app_Fil">Filtro : </string>
+</resources>
